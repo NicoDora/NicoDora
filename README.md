@@ -22,7 +22,7 @@ NicoDora 입니다. 👋
 - Discord : nicodora
 - [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
 
-![NicoDora's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoDora&?theme=tokyonight&show_icons=true)
+![NicoDora's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoDora&theme=tokyonight&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicoDora&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
