@@ -4,9 +4,9 @@ NicoDora 입니다. 👋
 
 ## 📖 My History
 
-| Date            | Organization                                                  | Position |
-| --------------- | ------------------------------------------------------------- | -------- |
-| 2023.06 ~ _ing_ | [Modern Agile (6 term)](https://github.com/modern-agile-team) | Back End |
+| Date            | Organization                                                 | Position |
+| --------------- | ------------------------------------------------------------ | -------- |
+| 2023.06 ~ _ing_ | [Modern Agile (6term)](https://github.com/modern-agile-team) | Back End |
 
 ## 🕹️ Tech stack
 
