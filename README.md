@@ -4,15 +4,11 @@ NicoDora 입니다. 👋
 
 ## 📖 My History
 
----
-
 | Date            | Organization                                                  | Position |
 | --------------- | ------------------------------------------------------------- | -------- |
 | 2023.06 ~ _ing_ | [Modern Agile (6 term)](https://github.com/modern-agile-team) | Back End |
 
 ## 🕹️ Tech stack
-
----
 
 <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" height="30"/></a>
 
@@ -22,8 +18,6 @@ NicoDora 입니다. 👋
 <a><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/></a>
 
 ## 📫 Contact
-
----
 
 - Discord : nicodora
 - [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
