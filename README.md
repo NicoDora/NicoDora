@@ -25,7 +25,7 @@ NicoDora 입니다. 👋
 
 ![NicoDora's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoDora&theme=tokyonight&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NicoDora&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NicoDora&theme=tokyonight)](https://git.io/streak-stats)
 
 ![NicoDora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NicoDora&theme=tokyo-night)
 
