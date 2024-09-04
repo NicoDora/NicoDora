@@ -2,6 +2,8 @@
 
 NicoDora 입니다. 👋
 
+![귀여운 마루쉐](https://github.com/user-attachments/assets/59e370d4-15b5-4670-af9e-dd1a8ec4aea4)
+
 ## 📖 My History
 
 | Date                    | Organization                                                 | Position |
