@@ -5,8 +5,9 @@ NicoDora 입니다. 👋
 ## 📖 My History
 
 | Date                    | Organization                                                 | Position |
-| ----------------------- | ------------------------------------------------------------ | -------- |
+| ----------------------- | :------------------------------------------------------------: | -------- |
 | 2023.05.31 ~ 2024.03.08 | [Modern Agile (6term)](https://github.com/modern-agile-team) | Back End |
+| 2024.06.01 ~            | [Fashion24](https://github.com/fashion24-developer)          | Back End |
 
 ## 🕹️ Tech stack
 
