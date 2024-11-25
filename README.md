@@ -24,6 +24,8 @@ NicoDora 입니다. 👋
 - Discord : nicodora
 - [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nicodora)](https://solved.ac/nicodora/)
+
 ![NicoDora's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoDora&theme=tokyonight&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NicoDora&theme=tokyonight)](https://git.io/streak-stats)
