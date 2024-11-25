@@ -28,7 +28,6 @@ NicoDora 입니다. 👋
 ## 📫 Contact
 
 - Discord : nicodora
-- [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
 
 <br>
 
@@ -39,3 +38,11 @@ NicoDora 입니다. 👋
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=NicoDora&theme=tokyonight)](https://git.io/streak-stats) -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoDora&theme=rogue" width="703">
+
+<br>
+
+<details>
+<summary>hmm...</summary>
+<img src="https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png" wedth="703" height="703">
+  
+</details>
