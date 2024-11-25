@@ -1,13 +1,19 @@
+<div align="center">
+
 ### 반갑습니다.
 
 NicoDora 입니다. 👋
 
 ## 📖 My History
 
-| Date                    | Organization                                                 | Position |
-| ----------------------- | :------------------------------------------------------------: | -------- |
-| 2023.05.31 ~ 2024.03.08 | [Modern Agile (6term)](https://github.com/modern-agile-team) | Back End |
-| ~2024.06.01~ ~            | ~[Fashion24](https://github.com/fashion24-developer)~          | ~Back End~ |
+<!-- <div align="center"> -->
+
+| Date                    |                         Organization                         | Position   |
+| ----------------------- | :----------------------------------------------------------: | ---------- |
+| 2023.05.31 ~ 2024.03.08 | [Modern Agile (6term)](https://github.com/modern-agile-team) | Back End   |
+| ~2024.06.01~            |    ~[Fashion24](https://github.com/fashion24-developer)~     | ~Back End~ |
+
+<!-- </div> -->
 
 ## 🕹️ Tech stack
 
@@ -32,17 +38,4 @@ NicoDora 입니다. 👋
 
 ![NicoDora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NicoDora&theme=tokyo-night)
 
-<!--
-**NicoDora/NicoDora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
