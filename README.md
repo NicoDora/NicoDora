@@ -1,3 +1,5 @@
+<br>
+
 ### 반갑습니다.
 
 NicoDora 입니다. 👋
@@ -31,6 +33,8 @@ NicoDora 입니다. 👋
 - [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
 
 <br>
+
+## 💎 Contribution
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nicodora)](https://solved.ac/nicodora/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nicodora&theme=warm)
 
