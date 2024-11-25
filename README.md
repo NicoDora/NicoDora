@@ -2,12 +2,16 @@
 
 NicoDora 입니다. 👋
 
+<br>
+
 ## 📖 My History
 
 | Date                    |                         Organization                         | Position   |
 | ----------------------- | :----------------------------------------------------------: | ---------- |
 | 2023.05.31 ~ 2024.03.08 | [Modern Agile (6term)](https://github.com/modern-agile-team) | Back End   |
 | ~2024.06.01~            |    ~[Fashion24](https://github.com/fashion24-developer)~     | ~Back End~ |
+
+<br>
 
 ## 🕹️ Tech stack
 
@@ -19,10 +23,14 @@ NicoDora 입니다. 👋
 
 <a><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="30"/></a>
 
+<br>
+
 ## 📫 Contact
 
 - Discord : nicodora
 - [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
+
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nicodora)](https://solved.ac/nicodora/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nicodora&theme=warm)
 
