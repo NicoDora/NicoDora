@@ -39,7 +39,7 @@ NicoDora 입니다. 👋
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=NicoDora&theme=tokyonight)](https://git.io/streak-stats) -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoDora&theme=rogue" width="703">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoDora&theme=vue" width="703">
 
 <br>
 
