@@ -1,5 +1,6 @@
 ### 반갑습니다.
 
+**"기술로 사람들의 삶을 더욱 편안하게"** 만들고 싶은 Back-End 개발자,\
 NicoDora 입니다. 👋
 
 <br>
@@ -29,10 +30,10 @@ NicoDora 입니다. 👋
 ## 💻 Projects
 
 ### 허니모아 (Honey Moa) [🔗](https://github.com/honey-moa/honey-moa-server)
-**블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스**
+**"블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스"**
 
-Nest.js, Socket.IO, PostgreSQL, AWS, Docker, GitHub Actions, Swagger\
-2025.01.14 ~ 진행중
+`Nest.js, Socket.IO, PostgreSQL, AWS, Docker, GitHub Actions, Swagger`\
+*(2025.01.14 ~ 진행중)*
 
 - AWS EC2 환경에서 develop 서버를 구축하고 [GitHub Actions를 사용하여 자동화된 CI/CD 환경 구축](https://nicodora.github.io/github/2025/03/18/GitHub-Actions%EB%A1%9C-CICD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.html)
 - [SSL 인증서 발급 및 자동 갱신 환경 구축하여 서비스의 보안성과 개발 편의 확보](https://nicodora.github.io/aws/2025/03/07/AWS-EC2%EC%97%90%EC%84%9C-Nginx%EC%99%80-Certbot%EC%9C%BC%EB%A1%9C-Lets-encrypt-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89%ED%95%98%EA%B8%B0.html)
@@ -42,10 +43,10 @@ Nest.js, Socket.IO, PostgreSQL, AWS, Docker, GitHub Actions, Swagger\
 <br>
 
 ### 멘보샤 (Menbosha) [🔗](https://github.com/modern-agile-team/Menbosha-back)
-**교내 신입생을 위한 1대1 채팅기반 멘토•멘티 서비스**
+**"교내 신입생을 위한 1대1 채팅기반 멘토•멘티 서비스"**
 
-Nest.js, MySQL, Redis, Slack, Swagger\
-2023.12.01 ~ 2024.03.17
+`Nest.js, MySQL, Redis, Slack, Swagger`\
+*(2023.12.01 ~ 2024.03.17)*
 
 - 소셜 로그인을 도입으로 가입/로그인 절차를 3단계에서 1단계로 간소화하여 유저 접근성 및 초기 이탈률 개선
 - JWT를 활용한 안전하고 빠른 인증•인가 시스템 구현
@@ -60,7 +61,7 @@ Nest.js, MySQL, Redis, Slack, Swagger\
 
 ### 모던애자일 6기
 
-**애자일 방법론 기반 교내 웹 개발 동아리** (2023.06.01 ~ 2024.03.08)
+**애자일 방법론 기반 교내 웹 개발 동아리** *(2023.06.01 ~ 2024.03.08)*
 
 - 6기 부회장 및 백엔드 팀원으로서 동아리 운영 및 프로젝트 참여
 - 애자일 스프린트(2주 단위)를 통해 빠른 피드백 수용 및 팀 협업 능력 강화
@@ -72,7 +73,7 @@ Nest.js, MySQL, Redis, Slack, Swagger\
 
 ### IDU 꿈날개 진로동아리
 
-**교내 자기주도 진로역량강화 활동 프로그램** (2024.10.01 ~ 2024.11.30)
+**교내 자기주도 진로역량강화 활동 프로그램** *(2024.10.01 ~ 2024.11.30)*
 
 - 잡코리아, 사람인 등 채용 공고 사이트 분석을 통해 희망 개발 분야의 핵심 요구 역량을 파악하고, 개인 맞춤형 학습 계획 및 역량 강화 로드맵 수립
 - 작성한 이력서를 팀원들과 공유하고 상호 피드백을 주고받으며 문서 작성 능력과 커뮤니케이션 스킬 향상
