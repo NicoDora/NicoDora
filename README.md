@@ -5,6 +5,16 @@ NicoDora 입니다. 👋
 
 <br>
 
+## 📬 Contact
+
+Email: pjh_2004@naver.com
+<br>
+GitHub: https://github.com/NicoDora
+<br>
+Blog: https://nicodora.github.io | https://nicodora.tistory.com
+
+<br>
+
 ## 📖 My History
 
 | Date                    |                             Organization                             | Position   |
@@ -15,7 +25,7 @@ NicoDora 입니다. 👋
 
 <br>
 
-## 🕹️ Tech stack
+## 🕹️ Tech Stack
 
 <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="30"/></a>
 
