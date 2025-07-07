@@ -9,7 +9,6 @@ NicoDora 입니다. 👋
 | Date                    |                             Organization                             | Position   |
 | ----------------------- | :------------------------------------------------------------------: | ---------- |
 | 2023.05.31 ~ 2024.03.08 |     [Modern Agile (6term)](https://github.com/modern-agile-team)     | Back End   |
-| ~2024.06.01~            |        ~[Fashion24](https://github.com/fashion24-developer)~         | ~Back End~ |
 | 2025.01.14 ~ 2025.01.28 | [Its Your Duck!](https://github.com/bokduck-bang/its-your-duck-back) | Back End   |
 | 2025.01.14 ~            |              [Honey Moa](https://github.com/honey-moa)               | Back End   |
 
