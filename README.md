@@ -28,7 +28,7 @@ NicoDora 입니다. 👋
 
 ## 💻 Projects
 
-#### 허니모아 (Honey Moa) - [GitHub](https://github.com/honey-moa/honey-moa-server)
+### 허니모아 (Honey Moa) - [GitHub](https://github.com/honey-moa/honey-moa-server)
 <b>블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스</b>
 
 - AWS EC2 환경에서 develop 서버를 구축하고 [GitHub Actions를 사용하여 자동화된 CI/CD 환경 구축](https://nicodora.github.io/github/2025/03/18/GitHub-Actions%EB%A1%9C-CICD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.html)
@@ -36,7 +36,9 @@ NicoDora 입니다. 👋
 - [linter•formatter(eslint + prettier) 환경에서 biome으로 마이그레이션 하여 linting•formating 에서 9배의 성능 향상 달성](https://nicodora.tistory.com/entry/Biome-Prettier%EB%B3%B4%EB%8B%A4-35%EB%B0%B0-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EB%8B%A4%EB%8A%94-Biome%EC%9D%84-%EC%8D%A8%EB%B3%B4%EC%9E%90)
 - Socket.IO를 사용하여 실시간 채팅 기능 구현
 
-#### 멘보샤 (Menbosha) - [GitHub](https://github.com/modern-agile-team/Menbosha-back)
+<br>
+
+### 멘보샤 (Menbosha) - [GitHub](https://github.com/modern-agile-team/Menbosha-back)
 <b>교내 신입생을 위한 1대1 채팅기반 멘토•멘티 서비스</b>
 
 - 소셜 로그인을 도입으로 가입/로그인 절차를 3단계에서 1단계로 간소화하여 유저 접근성 및 초기 이탈률 개선
