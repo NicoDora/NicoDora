@@ -40,7 +40,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 ## 💻 Projects
 
 ### [허니모아 (Honey Moa)](https://github.com/honey-moa/honey-moa-server)
-**"블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스"** *(2025.01.14 ~ 진행중)*
+**"블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스"** - *(2025.01.14 ~ 진행중)*
 
 `Nest.js, Socket.IO, PostgreSQL, AWS, Docker, GitHub Actions, Swagger`
 
@@ -52,7 +52,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 <br>
 
 ### [멘보샤 (Menbosha)](https://github.com/modern-agile-team/Menbosha-back)
-**"교내 신입생을 위한 1대1 채팅기반 멘토•멘티 서비스"** *(2023.12.01 ~ 2024.03.17)*
+**"교내 신입생을 위한 1대1 채팅기반 멘토•멘티 서비스"** - *(2023.12.01 ~ 2024.03.17)*
 
 `Nest.js, MySQL, Redis, Slack, Swagger`
 
@@ -69,7 +69,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 ### 모던애자일 6기
 
-**애자일 방법론 기반 교내 웹 개발 동아리** *(2023.06.01 ~ 2024.03.08)*
+**애자일 방법론 기반 교내 웹 개발 동아리** - *(2023.06.01 ~ 2024.03.08)*
 
 - 6기 부회장 및 백엔드 팀원으로서 동아리 운영 및 프로젝트 참여
 - 애자일 스프린트(2주 단위)를 통해 빠른 피드백 수용 및 팀 협업 능력 강화
@@ -81,7 +81,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 ### IDU 꿈날개 진로동아리
 
-**교내 자기주도 진로역량강화 활동 프로그램** *(2024.10.01 ~ 2024.11.30)*
+**교내 자기주도 진로역량강화 활동 프로그램** - *(2024.10.01 ~ 2024.11.30)*
 
 - 잡코리아, 사람인 등 채용 공고 사이트 분석을 통해 희망 개발 분야의 핵심 요구 역량을 파악하고, 개인 맞춤형 학습 계획 및 역량 강화 로드맵 수립
 - 작성한 이력서를 팀원들과 공유하고 상호 피드백을 주고받으며 문서 작성 능력과 커뮤니케이션 스킬 향상
