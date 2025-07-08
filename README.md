@@ -7,7 +7,7 @@
 
 <br>
 
-## 📬 Contact
+## 📬 Contact Me
 
 Email: pjh_2004@naver.com
 <br>
