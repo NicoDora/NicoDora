@@ -30,6 +30,8 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 ## 🕹️ Tech Stack
 
+<img src="https://cdn.jsdelivr.net/gh/NicoDora/nicodora.github.io/assets/img/frieren1.gif" width="200" height="200" align="right">
+
 <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="30"/></a>
 
 <a><img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/></a>
