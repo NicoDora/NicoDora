@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/cafcce24-92b4-4a71-92c1-4f3aa5dc7994" width="150" height="150" align="right">
+
 ### 반갑습니다.
 
 **"기술로 사람들의 삶을 더욱 편안하게"** 만들고 싶은 Back-End 개발자,\
