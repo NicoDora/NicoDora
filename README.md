@@ -20,10 +20,11 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 ## 📖 My History
 
 | Date                    |                             Organization                             | Position   |
-| ----------------------- | :------------------------------------------------------------------: | ---------- |
-| 2023.05.31 ~ 2024.03.08 |     [Modern Agile (6term)](https://github.com/modern-agile-team)     | Back End   |
+| ----------------------- | ------------------------------------------------------------------ | ---------- |
+| 2025.05.19 ~            |                 [P-Pick](https://github.com/P-pick)                  | Design & Back End |
+| 2025.01.14 ~   stoped   |              [Honey Moa](https://github.com/honey-moa)               | Back End   |
 | 2025.01.14 ~ 2025.01.28 | [Its Your Duck!](https://github.com/bokduck-bang/its-your-duck-back) | Back End   |
-| 2025.01.14 ~            |              [Honey Moa](https://github.com/honey-moa)               | Back End   |
+| 2023.05.31 ~ 2024.03.08 |     [Modern Agile (6term)](https://github.com/modern-agile-team)     | Back End   |
 
 <br>
 
