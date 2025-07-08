@@ -9,9 +9,9 @@
 
 Email: pjh_2004@naver.com
 <br>
-GitHub: https://github.com/NicoDora
+GitHub: [github.com/NicoDora](https://github.com/NicoDora)
 <br>
-Blog: https://nicodora.github.io | https://nicodora.tistory.com
+Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](https://nicodora.tistory.com)
 
 <br>
 
