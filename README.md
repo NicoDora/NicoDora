@@ -19,12 +19,12 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 ## 📖 My History
 
-| Date                    |                             Organization                             | Position   |
-| ----------------------- | ------------------------------------------------------------------ | ---------- |
-| 2025.05.19 ~            |                 [P-Pick](https://github.com/P-pick)                  | Design & Back End |
-| 2025.01.14 ~   stoped   |              [Honey Moa](https://github.com/honey-moa)               | Back End   |
-| 2025.01.14 ~ 2025.01.28 | [Its Your Duck!](https://github.com/bokduck-bang/its-your-duck-back) | Back End   |
-| 2023.05.31 ~ 2024.03.08 |     [Modern Agile (6term)](https://github.com/modern-agile-team)     | Back End   |
+| Date                    |                             Organization                             | Position   | Note |
+| ----------------------- | ------------------------------------------------------------------ | ---------- | --------- |
+| 2025.05.19 ~            |                 [P-Pick](https://github.com/P-pick)                  | Design & Back End | *2025 관광데이터 활용 공모전* |
+| 2025.01.14 ~   stoped   |              [Honey Moa](https://github.com/honey-moa)               | Back End   | *연인과의 꿀처럼 달콤한 추억을 모으는 서비스* |
+| 2025.01.14 ~ 2025.01.28 | [Its Your Duck!](https://github.com/bokduck-bang/its-your-duck-back) | Back End   | *복덕이를 통해 소중한 사람들과 덕담을 주고받는 캠페인* |
+| 2023.05.31 ~ 2024.03.08 |     [Modern Agile (6term)](https://github.com/modern-agile-team)     | Back End   | *애자일 방법론 기반 교내 웹 개발 동아리 (6기 부회장)* |
 
 <br>
 
@@ -43,7 +43,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 ## 💻 Projects
 
 ### [허니모아 (Honey Moa)](https://github.com/honey-moa/honey-moa-server)
-**"블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스"** - *(2025.01.14 ~ 진행중)*
+**"블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스"** - *(2025.01.14 ~ stoped)*
 
 `Nest.js, Socket.IO, PostgreSQL, AWS, Docker, GitHub Actions, Swagger`
 
