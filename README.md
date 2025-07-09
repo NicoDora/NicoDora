@@ -61,7 +61,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 `Nest.js, MySQL, Redis, Slack, Swagger`
 
-- 소셜 로그인을 도입으로 가입/로그인 절차를 3단계에서 1단계로 간소화하여 유저 접근성 및 초기 이탈률 개선
+- 소셜 로그인 도입으로 가입/로그인 절차를 3단계에서 1단계로 간소화하여 유저 접근성 및 초기 이탈률 개선
 - JWT를 활용한 안전하고 빠른 인증•인가 시스템 구현
 - [passport strategy를 사용하여 JWT 인증로직 간소화 및 재사용성 향상](https://github.com/modern-agile-team/Menbosha-back/pull/240)
 - 서버 재시작 시 Redis의 데이터가 사라지는 상황을 해결하기 위해 RDB (snapshot) 백업방식을 적용하여 데이터 영속성 보장
