@@ -56,7 +56,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 <br>
 
-## 네 덕이야!
+### 네 덕이야!
 **"복덕이를 통해 소중한 사람들과 덕담을 주고받는 캠페인"** - *(2025.01.14 ~ 2025.01.28)*
 
 `Nest.js, PostgreSQL, AWS, Docker, Swagger`
