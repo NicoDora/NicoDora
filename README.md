@@ -21,24 +21,26 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 | Date                    |                             Organization                             | Position   | Note |
 | ----------------------- | :------------------------------------------------------------------: | :----------: | --------- |
-| 2025.05.19 ~            |                 [P-Pick](https://github.com/P-pick)                  | Design & Back End | *2025 관광데이터 활용 공모전* |
-| 2025.01.14 ~   stopped   |              [Honey Moa](https://github.com/honey-moa)               | Back End   | *연인과의 꿀처럼 달콤한 추억을 모으는 서비스* |
-| 2025.01.14 ~ 2025.01.28 | [Its Your Duck!](https://github.com/bokduck-bang/its-your-duck-back) | Back End   | *복덕이를 통해 소중한 사람들과 덕담을 주고받는 캠페인* |
-| 2023.05.31 ~ 2024.03.08 |     [Modern Agile (6term)](https://github.com/modern-agile-team)     | Back End   | *애자일 방법론 기반 교내 웹 개발 동아리 (6기 부회장)* |
+| 2025.05.19 ~            |                 [P-Pick](https://github.com/P-pick)                  | Design & Back-End | *2025 관광데이터 활용 공모전* |
+| 2025.01.14 ~   stopped   |              [Honey Moa](https://github.com/honey-moa)               | Back-End   | *연인과의 꿀처럼 달콤한 추억을 모으는 서비스* |
+| 2025.01.14 ~ 2025.01.28 | [Its Your Duck!](https://github.com/bokduck-bang/its-your-duck-back) | Back-End   | *복덕이를 통해 소중한 사람들과 덕담을 주고받는 캠페인* |
+| 2023.05.31 ~ 2024.03.08 |     [Modern Agile (6term)](https://github.com/modern-agile-team)     | Back-End   | *애자일 방법론 기반 교내 웹 개발 동아리 (6기 부회장)* |
 
 <br>
 
 ## 🕹️ Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/NicoDora/nicodora.github.io/assets/img/frieren1.gif" width="200" height="200" align="right">
+<img src="https://cdn.jsdelivr.net/gh/NicoDora/nicodora.github.io/assets/img/frieren1.gif" width="230" height="230" align="right">
 
 <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="30"/></a>
 
 <a><img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/></a>
 
-<a><img src="https://img.shields.io/badge/auth0-EB5424.svg?&style=for-the-badge&logo=auth0&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="30"/></a>
+<a><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=TypeORM&logoColor=white" height="30"/></a>
 
 <a><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="30"/></a>
+
+<a><img src="https://img.shields.io/badge/auth0-EB5424.svg?&style=for-the-badge&logo=auth0&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="30"/></a>
 
 <br>
 
