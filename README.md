@@ -159,7 +159,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
   <br>
   <p align="right">
     <a href="https://www.youtube.com/watch?v=ckY0RKIjsNQ">
-      <img src="https://img.youtube.com/vi/ckY0RKIjsNQ/0.jpg" width="200" align="left">
+      <img src="https://img.youtube.com/vi/ckY0RKIjsNQ/0.jpg" width="170" align="left">
     </a>
     <br><br><b>객체지향 프로그래밍(OOP)</b>
   </p>
@@ -167,7 +167,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
   <br>
   <p align="left">
     <a href="https://www.youtube.com/watch?v=9hmL5YgU69E">
-      <img src="https://img.youtube.com/vi/9hmL5YgU69E/0.jpg" width="200" align="right">
+      <img src="https://img.youtube.com/vi/9hmL5YgU69E/0.jpg" width="170" align="right">
     </a>
     <br><br><br><b>쿠키와 세션</b>
   </p>
@@ -175,7 +175,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
   <br>
   <p align="right">
     <a href="https://www.youtube.com/watch?v=u9o4KlxUSrw">
-      <img src="https://img.youtube.com/vi/u9o4KlxUSrw/0.jpg" width="200" align="left">
+      <img src="https://img.youtube.com/vi/u9o4KlxUSrw/0.jpg" width="170" align="left">
     </a>
     <br><br><b>RESTful</b>
   </p>
@@ -188,21 +188,23 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
       <a href="https://www.youtube.com/watch?v=N_ULt-IbPo4">
-        <img src="https://img.youtube.com/vi/N_ULt-IbPo4/0.jpg" width="200"><br>
+        <img src="https://img.youtube.com/vi/N_ULt-IbPo4/0.jpg" width="170"><br>
         <b>암호화 Hash, Salt</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td style="width: 50px;">&nbsp;</td>
+    <td align="center">
       <a href="https://www.youtube.com/watch?v=IZpLXmVx9Rg">
-        <img src="https://img.youtube.com/vi/IZpLXmVx9Rg/0.jpg" width="200"><br>
+        <img src="https://img.youtube.com/vi/IZpLXmVx9Rg/0.jpg" width="170"><br>
         <b>Stack VS Queue VS Heap</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td style="width: 50px;">&nbsp;</td>
+    <td align="center">
       <a href="https://www.youtube.com/watch?v=_tsqK0wo-bc">
-        <img src="https://img.youtube.com/vi/_tsqK0wo-bc/0.jpg" width="200"><br>
+        <img src="https://img.youtube.com/vi/_tsqK0wo-bc/0.jpg" width="170"><br>
         <b>예외 처리 try/catch</b>
       </a>
     </td>
@@ -211,19 +213,21 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=zd1Tj1hCHNQ">
-        <img src="https://img.youtube.com/vi/zd1Tj1hCHNQ/0.jpg" width="200"><br>
+        <img src="https://img.youtube.com/vi/zd1Tj1hCHNQ/0.jpg" width="170"><br>
         <b>SQL vs NoSQL</b>
       </a>
     </td>
+    <td style="width: 50px;">&nbsp;</td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=kihaxOUkmDU">
-        <img src="https://img.youtube.com/vi/kihaxOUkmDU/0.jpg" width="200"><br>
+        <img src="https://img.youtube.com/vi/kihaxOUkmDU/0.jpg" width="170"><br>
         <b>데이터베이스 정규화</b>
       </a>
     </td>
+    <td style="width: 50px;">&nbsp;</td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=rlaaMv60EH4">
-        <img src="https://img.youtube.com/vi/rlaaMv60EH4/0.jpg" width="200"><br>
+        <img src="https://img.youtube.com/vi/rlaaMv60EH4/0.jpg" width="170"><br>
         <b>JWT (JSON Web Token)</b>
       </a>
     </td>
@@ -232,19 +236,21 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=ckY0RKIjsNQ">
-        <img src="https://img.youtube.com/vi/ckY0RKIjsNQ/0.jpg" width="200"><br>
+        <img src="https://img.youtube.com/vi/ckY0RKIjsNQ/0.jpg" width="170"><br>
         <b>객체지향 프로그래밍(OOP)</b>
       </a>
     </td>
+    <td style="width: 50px;">&nbsp;</td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=9hmL5YgU69E">
-        <img src="https://img.youtube.com/vi/9hmL5YgU69E/0.jpg" width="200"><br>
+        <img src="https://img.youtube.com/vi/9hmL5YgU69E/0.jpg" width="170"><br>
         <b>쿠키와 세션</b>
       </a>
     </td>
+    <td style="width: 50px;">&nbsp;</td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=u9o4KlxUSrw">
-        <img src="https://img.youtube.com/vi/u9o4KlxUSrw/0.jpg" width="200"><br>
+        <img src="https://img.youtube.com/vi/u9o4KlxUSrw/0.jpg" width="170"><br>
         <b>RESTful</b>
       </a>
     </td>
