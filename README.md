@@ -56,6 +56,16 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 <br>
 
+## 네 덕이야!
+**"복덕이를 통해 소중한 사람들과 덕담을 주고받는 캠페인"** - *(2025.01.14 ~ 2025.01.28)*
+
+`Nest.js, PostgreSQL, AWS, Docker, Swagger`
+
+- 복덕이(덕담) CRUD 구현
+- AWS EC2를 사용하여 배포 및 Route53을 사용해 DNS 관리
+
+<br>
+
 ### [멘보샤 (Menbosha)](https://github.com/modern-agile-team/Menbosha-back)
 **"교내 신입생을 위한 1대1 채팅기반 멘토•멘티 서비스"** - *(2023.12.01 ~ 2024.03.17)*
 
