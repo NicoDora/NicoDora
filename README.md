@@ -47,7 +47,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 ### [허니모아 (Honey Moa)](https://github.com/honey-moa/honey-moa-server)
 **"블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스"** - *(2025.01.14 ~ stopped)*
 
-`Nest.js, Socket.IO, PostgreSQL, AWS, Docker, GitHub Actions, Swagger`
+`Nest.js, Socket.IO, PostgreSQL, Prisma, AWS, Docker, GitHub Actions, Swagger`
 
 - AWS EC2 환경에서 develop 서버를 구축하고 [GitHub Actions를 사용하여 자동화된 CI/CD 환경 구축](https://nicodora.github.io/github/2025/03/18/GitHub-Actions%EB%A1%9C-CICD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.html)
 - [SSL 인증서 발급 및 자동 갱신 환경 구축하여 서비스의 보안성과 개발 편의 확보](https://nicodora.github.io/aws/2025/03/07/AWS-EC2%EC%97%90%EC%84%9C-Nginx%EC%99%80-Certbot%EC%9C%BC%EB%A1%9C-Lets-encrypt-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89%ED%95%98%EA%B8%B0.html)
@@ -59,7 +59,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 ### 네 덕이야!
 **"복덕이를 통해 소중한 사람들과 덕담을 주고받는 캠페인"** - *(2025.01.14 ~ 2025.01.28)*
 
-`Nest.js, PostgreSQL, AWS, Docker, Swagger`
+`Nest.js, PostgreSQL, Prisma, AWS, Docker, Swagger`
 
 - 복덕이(덕담) CRUD 구현
 - AWS EC2를 사용하여 배포 및 Route53을 사용해 DNS 관리
@@ -69,7 +69,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 ### [멘보샤 (Menbosha)](https://github.com/modern-agile-team/Menbosha-back)
 **"교내 신입생을 위한 1대1 채팅기반 멘토•멘티 서비스"** - *(2023.12.01 ~ 2024.03.17)*
 
-`Nest.js, MySQL, Redis, Slack, Swagger`
+`Nest.js, MySQL, Redis, TypeORM, Slack, Swagger`
 
 - 소셜 로그인 도입으로 가입/로그인 절차를 3단계에서 1단계로 간소화하여 유저 접근성 및 초기 이탈률 개선
 - JWT를 활용한 안전하고 빠른 인증•인가 시스템 구현
