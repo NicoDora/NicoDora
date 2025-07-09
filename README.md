@@ -108,6 +108,84 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 ## ✨ Activity
 
+<div>
+  <p align="right">
+    <a href="https://www.youtube.com/watch?v=N_ULt-IbPo4">
+      <img src="https://img.youtube.com/vi/N_ULt-IbPo4/0.jpg" width="170" align="left">
+    </a>
+    <br><br><b>암호화 Hash, Salt</b>
+  </p>
+  <br>
+  <br>
+  <p align="left">
+    <a href="https://www.youtube.com/watch?v=IZpLXmVx9Rg">
+      <img src="https://img.youtube.com/vi/IZpLXmVx9Rg/0.jpg" width="170" align="right">
+    </a>
+    <br><br><b>Stack VS Queue VS Heap</b>
+  </p>
+  <br>
+  <br>
+  <p align="right">
+    <a href="https://www.youtube.com/watch?v=_tsqK0wo-bc">
+      <img src="https://img.youtube.com/vi/_tsqK0wo-bc/0.jpg" width="170" align="left">
+    </a>
+    <br><br><b>예외 처리 try/catch</b>
+  </p>
+  <br>
+  <br>
+  <p align="left">
+    <a href="https://www.youtube.com/watch?v=zd1Tj1hCHNQ">
+      <img src="https://img.youtube.com/vi/zd1Tj1hCHNQ/0.jpg" width="170" align="right">
+    </a>
+    <br><br><b>SQL(관계형) vs NoSQL(비관계형)</b>
+  </p>
+  <br>
+  <br>
+  <p align="right">
+    <a href="https://www.youtube.com/watch?v=kihaxOUkmDU">
+      <img src="https://img.youtube.com/vi/kihaxOUkmDU/0.jpg" width="170" align="left">
+    </a>
+    <br><br><b>데이터베이스 정규화</b>
+  </p>
+  <br>
+  <br>
+  <p align="left">
+    <a href="https://www.youtube.com/watch?v=rlaaMv60EH4">
+      <img src="https://img.youtube.com/vi/rlaaMv60EH4/0.jpg" width="170" align="right">
+    </a>
+    <br><br><b>JWT (JSON Web Token)</b>
+  </p>
+  <br>
+  <br>
+  <p align="right">
+    <a href="https://www.youtube.com/watch?v=ckY0RKIjsNQ">
+      <img src="https://img.youtube.com/vi/ckY0RKIjsNQ/0.jpg" width="200" align="left">
+    </a>
+    <br><br><b>객체지향 프로그래밍(OOP)</b>
+  </p>
+  <br>
+  <br>
+  <p align="left">
+    <a href="https://www.youtube.com/watch?v=9hmL5YgU69E">
+      <img src="https://img.youtube.com/vi/9hmL5YgU69E/0.jpg" width="200" align="right">
+    </a>
+    <br><br><br><b>쿠키와 세션</b>
+  </p>
+  <br>
+  <br>
+  <p align="right">
+    <a href="https://www.youtube.com/watch?v=u9o4KlxUSrw">
+      <img src="https://img.youtube.com/vi/u9o4KlxUSrw/0.jpg" width="200" align="left">
+    </a>
+    <br><br><b>RESTful</b>
+  </p>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nicodora)](https://solved.ac/nicodora/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nicodora&theme=warm)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=NicoDora&theme=tokyonight)](https://git.io/streak-stats) -->
