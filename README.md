@@ -2,7 +2,7 @@
 
 ### 반갑습니다.
 
-**"기술로 사람들의 삶을 더욱 편안하게"** 만들고 싶은 Back-End 개발자,\
+**"기술로 사람들의 삶을 더욱 편안하게"** 만들고 싶은 Backend 개발자,\
 **NicoDora** 입니다. 👋
 
 <br>
@@ -21,10 +21,10 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 | Date                    |                             Organization                             | Position   | Note |
 | ----------------------- | :------------------------------------------------------------------: | :----------: | --------- |
-| 2025.05.19 ~            |                 [P-Pick](https://github.com/P-pick)                  | Design & Back-End | *2025 관광데이터 활용 공모전* |
-| 2025.01.14 ~   stopped   |              [Honey Moa](https://github.com/honey-moa)               | Back-End   | *연인과의 꿀처럼 달콤한 추억을 모으는 서비스* |
-| 2025.01.14 ~ 2025.01.28 | [Its Your Duck!](https://github.com/bokduck-bang/its-your-duck-back) | Back-End   | *복덕이를 통해 소중한 사람들과 덕담을 주고받는 캠페인* |
-| 2023.05.31 ~ 2024.03.08 |     [Modern Agile (6term)](https://github.com/modern-agile-team)     | Back-End   | *애자일 방법론 기반 교내 웹 개발 동아리 (6기 부회장)* |
+| 2025.05.19 ~            |                 [P-Pick](https://github.com/P-pick)                  | Design & Backend | *2025 관광데이터 활용 공모전* |
+| 2025.01.14 ~   stopped   |              [Honey Moa](https://github.com/honey-moa)               | Backend   | *연인과의 꿀처럼 달콤한 추억을 모으는 서비스* |
+| 2025.01.14 ~ 2025.01.28 | [Its Your Duck!](https://github.com/bokduck-bang/its-your-duck-back) | Backend   | *복덕이를 통해 소중한 사람들과 덕담을 주고받는 캠페인* |
+| 2023.05.31 ~ 2024.03.08 |     [Modern Agile (6term)](https://github.com/modern-agile-team)     | Backend   | *애자일 방법론 기반 교내 웹 개발 동아리 (6기 부회장)* |
 
 <br>
 
