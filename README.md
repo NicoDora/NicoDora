@@ -78,7 +78,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 - [passport strategy를 사용하여 JWT 인증로직 간소화 및 재사용성 향상](https://github.com/modern-agile-team/Menbosha-back/pull/240)
 - 서버 재시작 시 Redis의 데이터가 사라지는 상황을 해결하기 위해 RDB (snapshot) 백업방식을 적용하여 데이터 영속성 보장
 - 유저의 서비스 내 기여도를 측정하고 1주일마다 인기 멘토를 선정하는 자동화 기능 구현
-- [ERD](https://private-user-images.githubusercontent.com/128793959/329941828-bc3d81e5-ed45-4954-ac45-b3fa2fb5e7c7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1MzIyNzQsIm5iZiI6MTc0ODUzMTk3NCwicGF0aCI6Ii8xMjg3OTM5NTkvMzI5OTQxODI4LWJjM2Q4MWU1LWVkNDUtNDk1NC1hYzQ1LWIzZmEyZmI1ZTdjNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUyOVQxNTE5MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZGI0ZDA3NWRlYTQ4YmU5ZGQzZGI2NTJiYTAwZmQ4YmIyM2Q1MGFmYTk4NTdiNzBkOWYwZDAyNDcwNThhNTZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.H904J3uF-8pfrAR17QA-23azxM2-IOZt1JItRt8aKno) 설계 주도, 유저 CRUD API 구현
+- [ERD](https://github.com/user-attachments/assets/b4995f7e-a12f-4cc6-b425-0f64bee79e5c) 설계 주도, 유저 CRUD API 구현
 
 <br>
 
