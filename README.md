@@ -46,9 +46,9 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 ## 💻 Projects
 
-### [허니모아 (Honey Moa)](https://github.com/honey-moa/honey-moa-server)
+### 허니모아 (Honey Moa)
 
-**"블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스"** - _(2025.01.14 ~ 2025.04.07)_
+**"블로그와 채팅을 활용해 연인과의 꿀처럼 달콤한 추억을 모으는 서비스"** [[GitHub](https://github.com/honey-moa/honey-moa-server), [Portfolio](https://www.notion.so/Honey-Moa-2325ccb5547d801197b9d659cd6b048c)] - _(2025.01.14 ~ 2025.04.07)_
 
 `Nest.js, Socket.IO, PostgreSQL, Prisma, AWS, Docker, GitHub Actions, Nginx, Swagger`
 
@@ -70,9 +70,9 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 <br>
 
-### [멘보샤 (Menbosha)](https://github.com/modern-agile-team/Menbosha-back)
+### 멘보샤 (Menbosha)
 
-**"교내 신입생을 위한 1대1 채팅기반 멘토•멘티 서비스"** - _(2023.12.01 ~ 2024.03.17)_
+**"교내 신입생을 위한 1대1 채팅기반 멘토•멘티 서비스"** [[GitHub](https://github.com/modern-agile-team/Menbosha-back), [Portfolio](https://www.notion.so/Menbosha-22d5ccb5547d8029864ddb9d0c1d84bf)] - _(2023.12.01 ~ 2024.03.17)_
 
 `Nest.js, MySQL, Redis, TypeORM, Slack, Swagger`
 
