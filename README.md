@@ -52,7 +52,7 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 `Nest.js, Socket.IO, PostgreSQL, Prisma, AWS, Docker, GitHub Actions, Nginx, Swagger`
 
-- 배포 수작업 및 휴먼에러를 해결하기 위해 [GitHub Actions를 통해 자동화된 CI/CD 환경 구축](https://nicodora.github.io/github/2025/03/18/GitHub-Actions%EB%A1%9C-CICD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.html)하여 배포 시간 56% 단축
+- 배포 수작업 및 휴먼에러를 해결하기 위해 [GitHub Actions를 통해 자동화된 CI/CD 환경 구축하여 배포 시간 56% 단축](https://nicodora.github.io/github/2025/03/18/GitHub-Actions%EB%A1%9C-CICD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.html)
 - [SSL 인증서 발급 및 자동 갱신 환경 구축하여 서비스의 보안성과 개발 편의 확보](https://nicodora.github.io/aws/2025/03/07/AWS-EC2%EC%97%90%EC%84%9C-Nginx%EC%99%80-Certbot%EC%9C%BC%EB%A1%9C-Lets-encrypt-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89%ED%95%98%EA%B8%B0.html)
 - [eslint + prettier 환경에서 biome으로 마이그레이션 하여 linting•formatting 에서 9배의 성능 향상 달성](https://nicodora.tistory.com/entry/Biome-Prettier%EB%B3%B4%EB%8B%A4-35%EB%B0%B0-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EB%8B%A4%EB%8A%94-Biome%EC%9D%84-%EC%8D%A8%EB%B3%B4%EC%9E%90)
 - Socket.IO를 사용하여 실시간 채팅 기능 구현
