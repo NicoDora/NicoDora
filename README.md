@@ -99,6 +99,14 @@ Blog: [nicodora.github.io](https://nicodora.github.io) | [nicodora.tistory.com](
 
 <br>
 
+## 🏆 Certificate
+
+<a href="https://www.credly.com/badges/f73f825f-4051-4e2e-a955-dde14d328533/public_url">
+  <img src="https://github.com/user-attachments/assets/abbea5c5-3447-4e10-b330-e0e204f9403a" width="150">
+</a>
+
+<br>
+
 ## ✨ Activity
 
 <table>
