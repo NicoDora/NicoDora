@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/cafcce24-92b4-4a71-92c1-4f3aa5dc7994" width="170" height="170" align="right">
+<img src="https://github.com/user-attachments/assets/111811eb-6ec7-41b6-893b-d3f52daead6b" width="270" align="right">
 
 ### 반갑습니다.
 
