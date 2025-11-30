@@ -5,7 +5,7 @@
 **"기술로 사람들의 삶을 더욱 편리하게"** 만들고 싶은 Backend 개발자,\
 **NicoDora** 입니다. 👋
 
-💖 [이력서(Resume)](https://drive.google.com/file/d/1U0HkIeXO8ITxae6A-9YvpUxDZThqFYdq/view?usp=sharing) 💖
+💖 [이력서(Resume)](https://drive.google.com/file/d/1MyUsPkeIJm-qBgurEFrAl6p-FYOl39eh/view?usp=sharing) 💖
 
 <br>
 
